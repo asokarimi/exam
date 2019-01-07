@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "semistandard && mocha",
+    "test": "mocha",
     "dev": "webpack",
     "watch": "npm run dev -- --watch"
   },
